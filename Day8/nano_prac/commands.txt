@@ -1,0 +1,6 @@
+Nano Commands:
+
+Ctrl+o = Save
+Ctrl+x = Exit
+Ctrl+w = Search
+

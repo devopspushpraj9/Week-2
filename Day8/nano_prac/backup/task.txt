@@ -1,0 +1,13 @@
+To: Teacher
+Subject: Mission Report
+
+Teacher, I did the 3 missions:
+1. Created diary.txt with:[First line]
+2. Created shopping.txt with: [First item]
+3. Added to diary.txt: [New line]
+
+I undertand:
+Ctrl+o = Save
+Ctrl+X = Exit
+Just type to write
+I am ready for more!

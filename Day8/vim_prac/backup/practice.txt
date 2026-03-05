@@ -1,0 +1,6 @@
+Hello My name is Pushspraj.
+I am 19 Y old.
+I am Learning Vim.
+:wq
+
+

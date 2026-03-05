@@ -1,0 +1,9 @@
+My DevOps Goals:
+
+1. Learn Linux completely
+2. Master Bash scripting
+3. Understand AWS
+4. Get AWS-SAA certified
+5. Get CKA certified
+6. Become job-ready in 12 months
+

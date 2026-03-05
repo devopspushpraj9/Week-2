@@ -1,0 +1,6 @@
+Vim Commands: 
+i = insert mode
+Esc = normal mode
+:wq = save quit
+:q! = quit without saving
+
